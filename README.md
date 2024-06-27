@@ -11,19 +11,18 @@ To run this program, ensure you have:
 ## How to Run
 
 1. **Clone the repository:**
-   
+
 - git clone https://github.com/Jayesh2026/AssessmentTask_1.git
 
 2. **Compile the Java files:**
-   
+
 - javac ReverseWordsFromFile.java
 
 3. **Run the program:**
-   
+
 - java ReverseWordsFromFile
 
 4. **Check the output:**
-   
 - The program reads from `input.txt` located in the specified directory, example: (`D:\\Assessment\\Task 1\\`).
 - It writes the reversed words to `output.txt` in the same directory.
 
